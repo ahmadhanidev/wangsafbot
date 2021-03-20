@@ -1,0 +1,211 @@
+
+Yang harus beli apikey fitur : #ig, #igstalk, semua fitur ig, simsimi
+
+╭─「 ⇒ QUICK - Main Menu 」--#menuall, #helpall (nampilin seluruh menu) --#menu, #help (nampilin main menu doang)
+│
+│ • !menu, !quickmenu
+│ • !menuposer
+│ • !menuuser
+│ • !menusticker
+│ • !menutanya
+│ • !menugrup (coming soon update)
+│ • !menuquotes
+│ • !menupanggilan
+│ • !menuinfo (info bot)
+│ • !menuowner (hanya owner yg bisa akses command ini)
+│ • !menugame
+│ • !menuseberapa
+╰────
+
+╭─「 ⇒ Menu Khusus - Poserfriends 」--#menuposer
+│
+│ • #request (request fitur!)
+│ • #namaKalian (contoh: #nufail)
+│ • #agama (@mentionUser) | <nama>
+│ p• #autis (random) - coming soon
+│ • #afk <alasan>
+│ • #bucin
+│ • #bucinposer
+│ • #couple (@mentionUser1 & @mentionUser2)
+│ • #iyadah <teks>
+│ • #nyimak <alasan>
+│ • #stalk (@mentionUuser)
+│ • #fitnah <teks> + @mentionUser + <teksReply>
+│ • #jawa
+│ • #sunda
+│ • #jodoh
+│ • #semangat (@mentionUser)
+│ • #sifat (@mentionUser)
+│ • #umur (@mentionUser)
+│ • #memenufail
+│ • #image (random)
+│ • #imagebnw (random)
+│ • #wallpaper (random)
+╰────
+
+╭─「 ⇒ Exp & Limit 」--#menuuser
+│
+│ • #buy <jumlah limit>
+│ • #buyall
+│ • #claim
+│ • #checklimit (otw buat) -- tampilin limit yang asli (ngambil logika di profile.js)
+╰────
+
+╭─「 ⇒ INFO BOT 」--#menuinfo
+│
+│ • #owner
+│ • #source (Coming soon) -- bikin source siapa yang buat github dan keterangan tentang bot ini
+╰────
+
+╭─「 ⇒ Menu Seberapa 」--#menuseberapa
+│
+│ • #seberapabodoh
+│ • #seberapapinter
+│ • #seberapacantik
+│ • #seberapaganteng
+│ • #seberapajodoh
+│ • #seberapagay
+│ • #seberapabucin
+╰────
+
+╭─「 ⇒ Group 」--#menugrup
+│
+│ • #listonline
+│ • #online
+╰────
+
+╭─「 ⇒ Sticker 」-- #menusticker
+│
+│ • #attp <teks>
+│ • #ttp <teks>
+│ • #stiker (reply gambarnya)
+│ • #stiker <url>
+│ • #toimg (reply stickernya)
+╰────
+
+╭─「 ⇒ Menu Owner 」--#menuowner
+│
+│ • #onbot
+│ • #offbot
+│ • #transferxp (Transfer XP) -otw
+│ • #transferlimit
+│ • #tambahxp
+│ • #tambahlimit --- coming soon
+│ • #kurangixp
+│ • #kurangilimit --(Coming soon.)
+╰────
+
+╭─「 Menu Khusus Owner」--#menuowner
+│ • #catatanbot (buat catet catet hal hal yang harus dilihat di hp)
+│ • #resetbot
+│ • #update
+│ • #updateversibot (disable)
+╰────
+
+╭─「 ⇒ Kerang Ajaib 」--#menutanya
+│
+│ • #apakah <pertanyaan>
+│ • #kapankah <pertanyaan>
+│ • #siapakah <pertanyaan>
+│ • #dimanakah <pertanyaan> -- coming Soon
+│ • #berapakah <pertanyaan> -- coming Soon
+╰────
+
+╭─「 ⇒ Group 」--#menugrup
+│
+│ • #listonline
+│ • #online
+╰────
+
+╭─「 ⇒ Mini Game 」
+│
+│ • #math <option>
+│ • #family100 (Coming Soon)
+╰────
+
+╭─「 ⇒ Tools & Internet 」
+│
+│ • #brainly <soal> (delay)
+│ • #google <teks> (delay)
+│ • #ss <link/url> (delay)
+│ • #calc <expression>
+╰────
+
+╭─「 Downloader 」
+│ • #ig <url> (needAPIKEY)
+│ • #ighighlight <username>
+│ • #igstalk <username>
+│ • #igstory <username>
+│ • #play <pencarian> (Limit)
+│ • #play2 <pencarian> (Limit)
+│ • #tiktok <url>
+│ • #ytmp3 <url> [server: id4, en60] (Limit)
+│ • #yta <url> [server: id4, en60] (Limit)
+│ • #ytmp4 <url> [server: id4, en60] (Limit)
+│ • #ytv <url> [server: id4, en60] (Limit)
+│ • #yt <url> [server: id4, en60] (Limit)
+╰────
+
+╭─「 Tools 」
+│ • #kalkulator <angka1 ['+', "-", "x", "/"] angka2>
+│ • #halah <teks>
+│ • #hilih <teks>
+│ • #huluh <teks>
+│ • #heleh <teks>
+│ • #holoh <teks>
+│ • #tahta <teks> (Limit)
+│ • #mention <teks>
+│ • #nulis <teks>
+│ • #profile [@user]
+│ • #qr <teks>
+│ • #qrcode <teks>
+│ • #readmore <teks>|<teks>
+│ • #spoiler <teks>|<teks>
+│ • #run (Limit)
+│ • #ping
+│ • #speed
+│ • #style <text>
+│ • #textpro <effect> <text>|[text2]
+│ • #tts <lang> <teks>
+╰────
+
+╭─「 Fun 」--(disable) -- harus beli apikey
+│ • #simi <teks>
+│ • #simsimi <teks>
+│ • #simih <teks>
+╰────
+
+╭─「 Menu Owner 」
+│ • #banchat
+│ • #broadcast <teks>
+│ • #bc <teks>
+│ • #broadcastgroup <teks>
+│ • #bcgc <teks>
+│ • #deletechat
+│ • #deletechat group
+│ • #mutechat
+│ • #mutechat group
+│ • #enable <option>
+│ • #disable <option>
+│ • #oadd @user
+│ • #o+ @user
+│ • #odemote @user
+│ • #omember @user
+│ • #ov @user
+│ • #okick @user
+│ • #o- @user
+│ • #opengumuman [teks]
+│ • #ohidetag [teks]
+│ • #opromote @user
+│ • #oadmin @user
+│ • #o^ @user
+│ • #setbye <teks>
+│ • #setmenu <teks>
+│ • #setmenubefore <teks>
+│ • #setmenuheader <teks>
+│ • #setmenubody <teks>
+│ • #setmenufooter <teks>
+│ • #setmenuafter <teks>
+│ • #setwelcome <teks>
+│ • #unbanchat
+╰────
